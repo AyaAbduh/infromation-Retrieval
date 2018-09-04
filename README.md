@@ -1,5 +1,5 @@
 # infromation-Retrieval
-Enter a sentence and the code will get to you files that contains this sentence
+Enter a sentence and the code will retrieve the files where this sentence exist 
 
 Step1: the user enters the documents
 
